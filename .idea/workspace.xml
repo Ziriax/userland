@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c" line="736" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="vmcs_host_apps" targetName="vcmailbox" />
+      <config projectName="vmcs_host_apps" targetName="reader_mpga" />
+      <config projectName="vmcs_host_apps" targetName="reader_rv9" />
+      <config projectName="vmcs_host_apps" targetName="reader_asf" />
+      <config projectName="vmcs_host_apps" targetName="reader_mp4" />
+      <config projectName="vmcs_host_apps" targetName="raspivid" />
+      <config projectName="vmcs_host_apps" targetName="debug_sym_static" />
+      <config projectName="vmcs_host_apps" targetName="mmal_vc_client" />
+      <config projectName="vmcs_host_apps" targetName="writer_binary" />
+      <config projectName="vmcs_host_apps" targetName="reader_flv" />
+      <config projectName="vmcs_host_apps" targetName="reader_rtp" />
+      <config projectName="vmcs_host_apps" targetName="khrn_static" />
+      <config projectName="vmcs_host_apps" targetName="writer_raw_video" />
+      <config projectName="vmcs_host_apps" targetName="brcmjpeg" />
+      <config projectName="vmcs_host_apps" targetName="vidtex" />
+      <config projectName="vmcs_host_apps" targetName="containers_datagram_receiver" />
+      <config projectName="vmcs_host_apps" targetName="reader_mkv" />
+      <config projectName="vmcs_host_apps" targetName="containers_net_extra" />
+      <config projectName="vmcs_host_apps" targetName="vchostif" />
+      <config projectName="vmcs_host_apps" targetName="mmal_omx" />
+      <config projectName="vmcs_host_apps" targetName="WFC" />
+      <config projectName="vmcs_host_apps" targetName="brcmGLESv2" />
+      <config projectName="vmcs_host_apps" targetName="containers_test_uri" />
+      <config projectName="vmcs_host_apps" targetName="reader_metadata_id3" />
+      <config projectName="vmcs_host_apps" targetName="raspistill" />
+      <config projectName="vmcs_host_apps" targetName="brcmjpeg_test" />
+      <config projectName="vmcs_host_apps" targetName="containers_rtp_decoder" />
+      <config projectName="vmcs_host_apps" targetName="GLESv2_static" />
+      <config projectName="vmcs_host_apps" targetName="EGL" />
+      <config projectName="vmcs_host_apps" targetName="openmaxil" />
+      <config projectName="vmcs_host_apps" targetName="vcfiled_lock_test" />
+      <config projectName="vmcs_host_apps" targetName="containers_check_frame_int" />
+      <config projectName="vmcs_host_apps" targetName="vcfiled_check" />
+      <config projectName="vmcs_host_apps" targetName="reader_simple" />
+      <config projectName="vmcs_host_apps" targetName="bcm_host" />
+      <config projectName="vmcs_host_apps" targetName="vcgencmd" />
+      <config projectName="vmcs_host_apps" targetName="vcfiled" />
+      <config projectName="vmcs_host_apps" targetName="vcilcs" />
+      <config projectName="vmcs_host_apps" targetName="brcmOpenVG" />
+      <config projectName="vmcs_host_apps" targetName="raspiyuv" />
+      <config projectName="vmcs_host_apps" targetName="dtoverlay" />
+      <config projectName="vmcs_host_apps" targetName="fdt" />
+      <config projectName="vmcs_host_apps" targetName="reader_ps" />
+      <config projectName="vmcs_host_apps" targetName="mmal_example_basic_1" />
+      <config projectName="vmcs_host_apps" targetName="mmal_util" />
+      <config projectName="vmcs_host_apps" targetName="mmal_example_basic_2" />
+      <config projectName="vmcs_host_apps" targetName="mmal_omxutil" />
+      <config projectName="vmcs_host_apps" targetName="writer_mp4" />
+      <config projectName="vmcs_host_apps" targetName="containers_stream_server" />
+      <config projectName="vmcs_host_apps" targetName="vcsm" />
+      <config projectName="vmcs_host_apps" targetName="writer_asf" />
+      <config projectName="vmcs_host_apps" targetName="containers_test_bits" />
+      <config projectName="vmcs_host_apps" targetName="mmal_example_graph" />
+      <config projectName="vmcs_host_apps" targetName="mmal_vc_diag" />
+      <config projectName="vmcs_host_apps" targetName="containers" />
+      <config projectName="vmcs_host_apps" targetName="vchiq_test" />
+      <config projectName="vmcs_host_apps" targetName="EGL_static" />
+      <config projectName="vmcs_host_apps" targetName="GLESv2" />
+      <config projectName="vmcs_host_apps" targetName="mmal" />
+      <config projectName="vmcs_host_apps" targetName="containers_dump_pktfile" />
+      <config projectName="vmcs_host_apps" targetName="reader_qsynth" />
+      <config projectName="vmcs_host_apps" targetName="writer_simple" />
+      <config projectName="vmcs_host_apps" targetName="tvservice" />
+      <config projectName="vmcs_host_apps" targetName="OpenVG" />
+      <config projectName="vmcs_host_apps" targetName="writer_dummy" />
+      <config projectName="vmcs_host_apps" targetName="dtovl" />
+      <config projectName="vmcs_host_apps" targetName="reader_raw_video" />
+      <config projectName="vmcs_host_apps" targetName="brcmEGL" />
+      <config projectName="vmcs_host_apps" targetName="mmal_core" />
+      <config projectName="vmcs_host_apps" targetName="vcos" />
+      <config projectName="vmcs_host_apps" targetName="reader_rtsp" />
+      <config projectName="vmcs_host_apps" targetName="mmal_components_extra" />
+      <config projectName="vmcs_host_apps" targetName="reader_avi" />
+      <config projectName="vmcs_host_apps" targetName="vchiq_arm" />
+      <config projectName="vmcs_host_apps" targetName="containers_stream_client" />
+      <config projectName="vmcs_host_apps" targetName="dtmerge" />
+      <config projectName="vmcs_host_apps" targetName="debug_sym" />
+      <config projectName="vmcs_host_apps" targetName="mmal_components" />
+      <config projectName="vmcs_host_apps" targetName="containers_test_extra" />
+      <config projectName="vmcs_host_apps" targetName="mmalcam" />
+      <config projectName="vmcs_host_apps" targetName="mmalplay" />
+      <config projectName="vmcs_host_apps" targetName="raspividyuv" />
+      <config projectName="vmcs_host_apps" targetName="vcsmem" />
+      <config projectName="vmcs_host_apps" targetName="reader_wav" />
+      <config projectName="vmcs_host_apps" targetName="containers_datagram_sender" />
+      <config projectName="vmcs_host_apps" targetName="containers_uri_pipe" />
+      <config projectName="vmcs_host_apps" targetName="writer_avi" />
+      <config projectName="vmcs_host_apps" targetName="reader_binary" />
+      <config projectName="vmcs_host_apps" targetName="reader_rcv" />
+      <config projectName="vmcs_host_apps" targetName="brcmWFC" />
+      <config projectName="vmcs_host_apps" targetName="khrn_client" />
+      <config projectName="vmcs_host_apps" targetName="containers_test" />
+      <config projectName="vmcs_host_apps" targetName="mmal_example_connections" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-Remote" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Remote Host" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7325c97-dfaf-4197-b599-95db0dac9450" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/susan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c" beforeDir="false" afterPath="$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug-remote/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-Remote" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="746" column="89" selection-start-line="746" selection-start-column="89" selection-end-line="746" selection-end-column="89" />
+              <folding>
+                <element signature="e#2409#2429#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>file_handle</find>
+      <find>strncmp</find>
+      <find>fwrite</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/host_applications/linux/apps/raspicam/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="150" />
+    <option name="y" value="-21" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vmcs_host_apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="userland" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vmcs_host_apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="userland" type="462c0819:PsiDirectoryNode" />
+              <item name="host_applications" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vmcs_host_apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="userland" type="462c0819:PsiDirectoryNode" />
+              <item name="host_applications" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vmcs_host_apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="userland" type="462c0819:PsiDirectoryNode" />
+              <item name="host_applications" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vmcs_host_apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="userland" type="462c0819:PsiDirectoryNode" />
+              <item name="host_applications" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="raspicam" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.raspividyuv">
+    <configuration name="EGL" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="EGL" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EGL_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="EGL_static" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GLESv2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="GLESv2" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GLESv2_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="GLESv2_static" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenVG" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="OpenVG" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WFC" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="WFC" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bcm_host" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="bcm_host" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="brcmEGL" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="brcmEGL" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="brcmGLESv2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="brcmGLESv2" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="brcmOpenVG" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="brcmOpenVG" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="brcmWFC" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="brcmWFC" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="brcmjpeg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="brcmjpeg" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="brcmjpeg_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="brcmjpeg_test" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="brcmjpeg_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_check_frame_int" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_check_frame_int" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_check_frame_int">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_datagram_receiver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_datagram_receiver" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_datagram_receiver">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_datagram_sender" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_datagram_sender" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_datagram_sender">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_dump_pktfile" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_dump_pktfile" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_dump_pktfile">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_net_extra" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_net_extra" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_rtp_decoder" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_rtp_decoder" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_rtp_decoder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_stream_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_stream_client" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_stream_client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_stream_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_stream_server" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_stream_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_test" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_test_bits" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_test_bits" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_test_bits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_test_extra" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_test_extra" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_test_uri" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_test_uri" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_test_uri">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containers_uri_pipe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="containers_uri_pipe" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="containers_uri_pipe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="debug_sym" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="debug_sym" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="debug_sym_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="debug_sym_static" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dtmerge" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="dtmerge" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="dtmerge">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dtoverlay" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="dtoverlay" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="dtoverlay">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dtovl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="dtovl" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fdt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="fdt" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="khrn_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="khrn_client" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="khrn_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="khrn_static" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_components" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_components" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_components_extra" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_components_extra" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_core" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_example_basic_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_example_basic_1" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="mmal_example_basic_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_example_basic_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_example_basic_2" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="mmal_example_basic_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_example_connections" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_example_connections" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="mmal_example_connections">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_example_graph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_example_graph" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="mmal_example_graph">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_omx" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_omx" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_omxutil" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_omxutil" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_util" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_util" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_vc_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_vc_client" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmal_vc_diag" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmal_vc_diag" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="mmal_vc_diag">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmalcam" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmalcam" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="mmalcam">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmalplay" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="mmalplay" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="mmalplay">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openmaxil" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="openmaxil" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="raspistill" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="raspistill" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="raspistill">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="raspivid" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="raspivid" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="raspivid">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="raspividyuv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="raspividyuv" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="raspividyuv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="raspiyuv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="raspiyuv" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="raspiyuv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_asf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_asf" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_avi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_avi" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_binary" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_binary" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_flv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_flv" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_metadata_id3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_metadata_id3" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_mkv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_mkv" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_mp4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_mp4" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_mpga" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_mpga" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_ps" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_ps" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_qsynth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_qsynth" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_raw_video" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_raw_video" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_rcv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_rcv" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_rtp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_rtp" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_rtsp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_rtsp" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_rv9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_rv9" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_simple" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_simple" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader_wav" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="reader_wav" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tvservice" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="tvservice" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="tvservice">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vcfiled" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vcfiled" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="vcfiled">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vcfiled_check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vcfiled_check" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vcfiled_lock_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vcfiled_lock_test" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="vcfiled_lock_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vcgencmd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vcgencmd" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="vcgencmd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vchiq_arm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vchiq_arm" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vchiq_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vchiq_test" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="vchiq_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vchostif" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vchostif" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vcilcs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vcilcs" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vcmailbox" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vcmailbox" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="vcmailbox">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vcos" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vcos" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vcsm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vcsm" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vcsmem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vcsmem" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="vcsmem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vidtex" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="vidtex" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="vidtex">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="writer_asf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="writer_asf" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="writer_avi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="writer_avi" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="writer_binary" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="writer_binary" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="writer_dummy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="writer_dummy" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="writer_mp4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="writer_mp4" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="writer_raw_video" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="writer_raw_video" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="writer_simple" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="writer_simple" CONFIG_NAME="Debug-Remote">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.containers" />
+      <item itemvalue="Application.containers_net_extra" />
+      <item itemvalue="Application.reader_asf" />
+      <item itemvalue="Application.writer_asf" />
+      <item itemvalue="Application.reader_avi" />
+      <item itemvalue="Application.writer_avi" />
+      <item itemvalue="Application.reader_binary" />
+      <item itemvalue="Application.writer_binary" />
+      <item itemvalue="Application.writer_dummy" />
+      <item itemvalue="Application.reader_flv" />
+      <item itemvalue="Application.reader_metadata_id3" />
+      <item itemvalue="Application.reader_mkv" />
+      <item itemvalue="Application.reader_mp4" />
+      <item itemvalue="Application.writer_mp4" />
+      <item itemvalue="Application.reader_ps" />
+      <item itemvalue="Application.reader_mpga" />
+      <item itemvalue="Application.reader_qsynth" />
+      <item itemvalue="Application.reader_raw_video" />
+      <item itemvalue="Application.writer_raw_video" />
+      <item itemvalue="Application.reader_rcv" />
+      <item itemvalue="Application.reader_rtp" />
+      <item itemvalue="Application.reader_rtsp" />
+      <item itemvalue="Application.reader_rv9" />
+      <item itemvalue="Application.reader_simple" />
+      <item itemvalue="Application.writer_simple" />
+      <item itemvalue="Application.containers_check_frame_int" />
+      <item itemvalue="Application.containers_datagram_receiver" />
+      <item itemvalue="Application.containers_datagram_sender" />
+      <item itemvalue="Application.containers_dump_pktfile" />
+      <item itemvalue="Application.containers_rtp_decoder" />
+      <item itemvalue="Application.containers_stream_client" />
+      <item itemvalue="Application.containers_stream_server" />
+      <item itemvalue="Application.containers_test" />
+      <item itemvalue="Application.containers_test_bits" />
+      <item itemvalue="Application.containers_test_extra" />
+      <item itemvalue="Application.containers_test_uri" />
+      <item itemvalue="Application.containers_uri_pipe" />
+      <item itemvalue="Application.reader_wav" />
+      <item itemvalue="Application.dtovl" />
+      <item itemvalue="Application.vidtex" />
+      <item itemvalue="Application.dtmerge" />
+      <item itemvalue="Application.dtoverlay" />
+      <item itemvalue="Application.vcgencmd" />
+      <item itemvalue="Application.raspistill" />
+      <item itemvalue="Application.raspivid" />
+      <item itemvalue="Application.raspividyuv" />
+      <item itemvalue="Application.raspiyuv" />
+      <item itemvalue="Application.vcsmem" />
+      <item itemvalue="Application.tvservice" />
+      <item itemvalue="Application.vcmailbox" />
+      <item itemvalue="Application.bcm_host" />
+      <item itemvalue="Application.debug_sym" />
+      <item itemvalue="Application.debug_sym_static" />
+      <item itemvalue="Application.vcsm" />
+      <item itemvalue="Application.brcmEGL" />
+      <item itemvalue="Application.brcmGLESv2" />
+      <item itemvalue="Application.brcmOpenVG" />
+      <item itemvalue="Application.brcmWFC" />
+      <item itemvalue="Application.EGL" />
+      <item itemvalue="Application.EGL_static" />
+      <item itemvalue="Application.GLESv2" />
+      <item itemvalue="Application.GLESv2_static" />
+      <item itemvalue="Application.khrn_client" />
+      <item itemvalue="Application.khrn_static" />
+      <item itemvalue="Application.OpenVG" />
+      <item itemvalue="Application.WFC" />
+      <item itemvalue="Application.mmal" />
+      <item itemvalue="Application.brcmjpeg" />
+      <item itemvalue="Application.brcmjpeg_test" />
+      <item itemvalue="Application.mmal_components" />
+      <item itemvalue="Application.mmal_components_extra" />
+      <item itemvalue="Application.mmal_core" />
+      <item itemvalue="Application.mmal_omx" />
+      <item itemvalue="Application.mmal_omxutil" />
+      <item itemvalue="Application.mmal_example_basic_1" />
+      <item itemvalue="Application.mmal_example_basic_2" />
+      <item itemvalue="Application.mmal_example_connections" />
+      <item itemvalue="Application.mmal_example_graph" />
+      <item itemvalue="Application.mmalcam" />
+      <item itemvalue="Application.mmalplay" />
+      <item itemvalue="Application.mmal_util" />
+      <item itemvalue="Application.mmal_vc_client" />
+      <item itemvalue="Application.mmal_vc_diag" />
+      <item itemvalue="Application.vchiq_arm" />
+      <item itemvalue="Application.vchiq_test" />
+      <item itemvalue="Application.vcos" />
+      <item itemvalue="Application.vchostif" />
+      <item itemvalue="Application.vcilcs" />
+      <item itemvalue="Application.vcfiled" />
+      <item itemvalue="Application.vcfiled_check" />
+      <item itemvalue="Application.vcfiled_lock_test" />
+      <item itemvalue="Application.openmaxil" />
+      <item itemvalue="Application.fdt" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7325c97-dfaf-4197-b599-95db0dac9450" name="Default Changelist" comment="" />
+      <created>1554296485526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554296485526</updated>
+      <workItem from="1554296490148" duration="7727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7727000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32917964" />
+      <window_info anchor="bottom" id="Messages" weight="0.32917964" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" weight="0.3287037" />
+      <window_info anchor="bottom" id="CMake" weight="0.3287037" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="LuaJ" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.CLion2018.3/system/.remote/10.1.1.29_22/bbf1f497-fb7e-40ad-b8e0-5d909bd3cca9/usr/include/string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="142" column="18" selection-start-line="142" selection-start-column="11" selection-end-line="142" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1782">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/host_applications/linux/apps/raspicam/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.CLion2018.3/system/.remote/10.1.1.29_22/bbf1f497-fb7e-40ad-b8e0-5d909bd3cca9/usr/include/stdio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="307" column="66" lean-forward="true" selection-start-line="307" selection-start-column="66" selection-end-line="307" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="746" column="89" selection-start-line="746" selection-start-column="89" selection-end-line="746" selection-end-column="89" />
+          <folding>
+            <element signature="e#2409#2429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

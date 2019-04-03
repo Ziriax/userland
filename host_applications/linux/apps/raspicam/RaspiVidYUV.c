@@ -100,7 +100,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 /// Interval at which we check for an failure abort during capture
 const int ABORT_INTERVAL = 100; // ms
 
-
 /// Capture/Pause switch method
 enum
 {
@@ -734,7 +733,24 @@ static void camera_buffer_callback(MMAL_PORT_T *port, MMAL_BUFFER_HEADER_T *buff
       if (bytes_to_write)
       {
          mmal_buffer_header_mem_lock(buffer);
-         bytes_written = fwrite(buffer->data, 1, bytes_to_write, pData->file_handle);
+
+         // TODO: Implement fwrite so that the buffer is written to the file in slices
+
+         uint16_t image_width = 256;
+         uint16_t image_height = 192;
+         uint16_t max_package_size = 1024;
+
+         // Calculate how many packets we are going to send
+         uint16_t max_package_count = image_width * image_height * (uint16_t ) pstate->framerate / max_package_size;
+
+         // Loop over the buffer, and fwrite a selection of the buffer
+         // TODO: Copy a subset of the buffer, and prefix the frame number and the offset
+         for (int i = 0; i < max_package_count; ++i)
+         {
+            fwrite(buffer->data + max_package_size * i, 1, max_package_size, pData->file_handle);
+         }
+
+         //bytes_written = fwrite(buffer->data, 1, bytes_to_write, pData->file_handle);
          mmal_buffer_header_mem_unlock(buffer);
 
          if (bytes_written != bytes_to_write)

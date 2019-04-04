@@ -5,99 +5,99 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="vmcs_host_apps" targetName="vcmailbox" />
-      <config projectName="vmcs_host_apps" targetName="reader_mpga" />
-      <config projectName="vmcs_host_apps" targetName="reader_rv9" />
-      <config projectName="vmcs_host_apps" targetName="reader_asf" />
-      <config projectName="vmcs_host_apps" targetName="reader_mp4" />
-      <config projectName="vmcs_host_apps" targetName="raspivid" />
-      <config projectName="vmcs_host_apps" targetName="debug_sym_static" />
-      <config projectName="vmcs_host_apps" targetName="mmal_vc_client" />
-      <config projectName="vmcs_host_apps" targetName="writer_binary" />
-      <config projectName="vmcs_host_apps" targetName="reader_flv" />
       <config projectName="vmcs_host_apps" targetName="reader_rtp" />
-      <config projectName="vmcs_host_apps" targetName="khrn_static" />
-      <config projectName="vmcs_host_apps" targetName="writer_raw_video" />
-      <config projectName="vmcs_host_apps" targetName="brcmjpeg" />
-      <config projectName="vmcs_host_apps" targetName="vidtex" />
-      <config projectName="vmcs_host_apps" targetName="containers_datagram_receiver" />
-      <config projectName="vmcs_host_apps" targetName="reader_mkv" />
-      <config projectName="vmcs_host_apps" targetName="containers_net_extra" />
-      <config projectName="vmcs_host_apps" targetName="vchostif" />
-      <config projectName="vmcs_host_apps" targetName="mmal_omx" />
-      <config projectName="vmcs_host_apps" targetName="WFC" />
-      <config projectName="vmcs_host_apps" targetName="brcmGLESv2" />
-      <config projectName="vmcs_host_apps" targetName="containers_test_uri" />
-      <config projectName="vmcs_host_apps" targetName="reader_metadata_id3" />
-      <config projectName="vmcs_host_apps" targetName="raspistill" />
-      <config projectName="vmcs_host_apps" targetName="brcmjpeg_test" />
-      <config projectName="vmcs_host_apps" targetName="containers_rtp_decoder" />
-      <config projectName="vmcs_host_apps" targetName="GLESv2_static" />
-      <config projectName="vmcs_host_apps" targetName="EGL" />
-      <config projectName="vmcs_host_apps" targetName="openmaxil" />
-      <config projectName="vmcs_host_apps" targetName="vcfiled_lock_test" />
-      <config projectName="vmcs_host_apps" targetName="containers_check_frame_int" />
-      <config projectName="vmcs_host_apps" targetName="vcfiled_check" />
-      <config projectName="vmcs_host_apps" targetName="reader_simple" />
-      <config projectName="vmcs_host_apps" targetName="bcm_host" />
-      <config projectName="vmcs_host_apps" targetName="vcgencmd" />
-      <config projectName="vmcs_host_apps" targetName="vcfiled" />
-      <config projectName="vmcs_host_apps" targetName="vcilcs" />
-      <config projectName="vmcs_host_apps" targetName="brcmOpenVG" />
-      <config projectName="vmcs_host_apps" targetName="raspiyuv" />
-      <config projectName="vmcs_host_apps" targetName="dtoverlay" />
-      <config projectName="vmcs_host_apps" targetName="fdt" />
-      <config projectName="vmcs_host_apps" targetName="reader_ps" />
-      <config projectName="vmcs_host_apps" targetName="mmal_example_basic_1" />
-      <config projectName="vmcs_host_apps" targetName="mmal_util" />
-      <config projectName="vmcs_host_apps" targetName="mmal_example_basic_2" />
-      <config projectName="vmcs_host_apps" targetName="mmal_omxutil" />
-      <config projectName="vmcs_host_apps" targetName="writer_mp4" />
-      <config projectName="vmcs_host_apps" targetName="containers_stream_server" />
-      <config projectName="vmcs_host_apps" targetName="vcsm" />
-      <config projectName="vmcs_host_apps" targetName="writer_asf" />
-      <config projectName="vmcs_host_apps" targetName="containers_test_bits" />
-      <config projectName="vmcs_host_apps" targetName="mmal_example_graph" />
-      <config projectName="vmcs_host_apps" targetName="mmal_vc_diag" />
-      <config projectName="vmcs_host_apps" targetName="containers" />
-      <config projectName="vmcs_host_apps" targetName="vchiq_test" />
-      <config projectName="vmcs_host_apps" targetName="EGL_static" />
-      <config projectName="vmcs_host_apps" targetName="GLESv2" />
-      <config projectName="vmcs_host_apps" targetName="mmal" />
-      <config projectName="vmcs_host_apps" targetName="containers_dump_pktfile" />
-      <config projectName="vmcs_host_apps" targetName="reader_qsynth" />
-      <config projectName="vmcs_host_apps" targetName="writer_simple" />
-      <config projectName="vmcs_host_apps" targetName="tvservice" />
-      <config projectName="vmcs_host_apps" targetName="OpenVG" />
-      <config projectName="vmcs_host_apps" targetName="writer_dummy" />
-      <config projectName="vmcs_host_apps" targetName="dtovl" />
-      <config projectName="vmcs_host_apps" targetName="reader_raw_video" />
       <config projectName="vmcs_host_apps" targetName="brcmEGL" />
-      <config projectName="vmcs_host_apps" targetName="mmal_core" />
-      <config projectName="vmcs_host_apps" targetName="vcos" />
-      <config projectName="vmcs_host_apps" targetName="reader_rtsp" />
-      <config projectName="vmcs_host_apps" targetName="mmal_components_extra" />
-      <config projectName="vmcs_host_apps" targetName="reader_avi" />
-      <config projectName="vmcs_host_apps" targetName="vchiq_arm" />
-      <config projectName="vmcs_host_apps" targetName="containers_stream_client" />
+      <config projectName="vmcs_host_apps" targetName="mmal_example_basic_2" />
+      <config projectName="vmcs_host_apps" targetName="mmal_example_basic_1" />
       <config projectName="vmcs_host_apps" targetName="dtmerge" />
-      <config projectName="vmcs_host_apps" targetName="debug_sym" />
-      <config projectName="vmcs_host_apps" targetName="mmal_components" />
+      <config projectName="vmcs_host_apps" targetName="reader_qsynth" />
+      <config projectName="vmcs_host_apps" targetName="mmal_example_graph" />
+      <config projectName="vmcs_host_apps" targetName="OpenVG" />
+      <config projectName="vmcs_host_apps" targetName="EGL_static" />
       <config projectName="vmcs_host_apps" targetName="containers_test_extra" />
-      <config projectName="vmcs_host_apps" targetName="mmalcam" />
-      <config projectName="vmcs_host_apps" targetName="mmalplay" />
-      <config projectName="vmcs_host_apps" targetName="raspividyuv" />
-      <config projectName="vmcs_host_apps" targetName="vcsmem" />
-      <config projectName="vmcs_host_apps" targetName="reader_wav" />
-      <config projectName="vmcs_host_apps" targetName="containers_datagram_sender" />
-      <config projectName="vmcs_host_apps" targetName="containers_uri_pipe" />
-      <config projectName="vmcs_host_apps" targetName="writer_avi" />
+      <config projectName="vmcs_host_apps" targetName="mmal_components" />
+      <config projectName="vmcs_host_apps" targetName="vchiq_arm" />
+      <config projectName="vmcs_host_apps" targetName="writer_mp4" />
+      <config projectName="vmcs_host_apps" targetName="fdt" />
+      <config projectName="vmcs_host_apps" targetName="vcmailbox" />
+      <config projectName="vmcs_host_apps" targetName="reader_mkv" />
       <config projectName="vmcs_host_apps" targetName="reader_binary" />
       <config projectName="vmcs_host_apps" targetName="reader_rcv" />
+      <config projectName="vmcs_host_apps" targetName="writer_binary" />
+      <config projectName="vmcs_host_apps" targetName="mmal_vc_client" />
+      <config projectName="vmcs_host_apps" targetName="reader_flv" />
+      <config projectName="vmcs_host_apps" targetName="writer_asf" />
+      <config projectName="vmcs_host_apps" targetName="containers_stream_server" />
+      <config projectName="vmcs_host_apps" targetName="writer_avi" />
+      <config projectName="vmcs_host_apps" targetName="containers_datagram_sender" />
+      <config projectName="vmcs_host_apps" targetName="reader_mpga" />
+      <config projectName="vmcs_host_apps" targetName="mmalplay" />
+      <config projectName="vmcs_host_apps" targetName="containers_test_uri" />
+      <config projectName="vmcs_host_apps" targetName="reader_ps" />
+      <config projectName="vmcs_host_apps" targetName="containers_check_frame_int" />
+      <config projectName="vmcs_host_apps" targetName="containers_uri_pipe" />
       <config projectName="vmcs_host_apps" targetName="brcmWFC" />
       <config projectName="vmcs_host_apps" targetName="khrn_client" />
+      <config projectName="vmcs_host_apps" targetName="containers" />
+      <config projectName="vmcs_host_apps" targetName="containers_dump_pktfile" />
+      <config projectName="vmcs_host_apps" targetName="vchostif" />
+      <config projectName="vmcs_host_apps" targetName="vcgencmd" />
+      <config projectName="vmcs_host_apps" targetName="GLESv2" />
+      <config projectName="vmcs_host_apps" targetName="tvservice" />
+      <config projectName="vmcs_host_apps" targetName="reader_rtsp" />
+      <config projectName="vmcs_host_apps" targetName="brcmjpeg_test" />
+      <config projectName="vmcs_host_apps" targetName="dtovl" />
+      <config projectName="vmcs_host_apps" targetName="mmal_omxutil" />
+      <config projectName="vmcs_host_apps" targetName="debug_sym_static" />
+      <config projectName="vmcs_host_apps" targetName="containers_test_bits" />
+      <config projectName="vmcs_host_apps" targetName="writer_dummy" />
+      <config projectName="vmcs_host_apps" targetName="reader_asf" />
+      <config projectName="vmcs_host_apps" targetName="GLESv2_static" />
+      <config projectName="vmcs_host_apps" targetName="vcsm" />
+      <config projectName="vmcs_host_apps" targetName="vcfiled_check" />
+      <config projectName="vmcs_host_apps" targetName="raspivid" />
+      <config projectName="vmcs_host_apps" targetName="vcos" />
+      <config projectName="vmcs_host_apps" targetName="containers_rtp_decoder" />
+      <config projectName="vmcs_host_apps" targetName="reader_raw_video" />
+      <config projectName="vmcs_host_apps" targetName="brcmOpenVG" />
+      <config projectName="vmcs_host_apps" targetName="mmal_omx" />
+      <config projectName="vmcs_host_apps" targetName="raspividyuv" />
+      <config projectName="vmcs_host_apps" targetName="debug_sym" />
+      <config projectName="vmcs_host_apps" targetName="writer_raw_video" />
+      <config projectName="vmcs_host_apps" targetName="reader_mp4" />
+      <config projectName="vmcs_host_apps" targetName="vchiq_test" />
+      <config projectName="vmcs_host_apps" targetName="khrn_static" />
+      <config projectName="vmcs_host_apps" targetName="containers_stream_client" />
+      <config projectName="vmcs_host_apps" targetName="EGL" />
+      <config projectName="vmcs_host_apps" targetName="dtoverlay" />
       <config projectName="vmcs_host_apps" targetName="containers_test" />
+      <config projectName="vmcs_host_apps" targetName="vcfiled_lock_test" />
+      <config projectName="vmcs_host_apps" targetName="writer_simple" />
+      <config projectName="vmcs_host_apps" targetName="mmal_vc_diag" />
+      <config projectName="vmcs_host_apps" targetName="mmal_util" />
       <config projectName="vmcs_host_apps" targetName="mmal_example_connections" />
+      <config projectName="vmcs_host_apps" targetName="raspiyuv" />
+      <config projectName="vmcs_host_apps" targetName="mmalcam" />
+      <config projectName="vmcs_host_apps" targetName="openmaxil" />
+      <config projectName="vmcs_host_apps" targetName="reader_simple" />
+      <config projectName="vmcs_host_apps" targetName="containers_datagram_receiver" />
+      <config projectName="vmcs_host_apps" targetName="bcm_host" />
+      <config projectName="vmcs_host_apps" targetName="mmal_components_extra" />
+      <config projectName="vmcs_host_apps" targetName="vidtex" />
+      <config projectName="vmcs_host_apps" targetName="vcilcs" />
+      <config projectName="vmcs_host_apps" targetName="brcmGLESv2" />
+      <config projectName="vmcs_host_apps" targetName="raspistill" />
+      <config projectName="vmcs_host_apps" targetName="mmal" />
+      <config projectName="vmcs_host_apps" targetName="reader_avi" />
+      <config projectName="vmcs_host_apps" targetName="brcmjpeg" />
+      <config projectName="vmcs_host_apps" targetName="vcfiled" />
+      <config projectName="vmcs_host_apps" targetName="containers_net_extra" />
+      <config projectName="vmcs_host_apps" targetName="reader_wav" />
+      <config projectName="vmcs_host_apps" targetName="vcsmem" />
+      <config projectName="vmcs_host_apps" targetName="reader_rv9" />
+      <config projectName="vmcs_host_apps" targetName="mmal_core" />
+      <config projectName="vmcs_host_apps" targetName="reader_metadata_id3" />
+      <config projectName="vmcs_host_apps" targetName="WFC" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -107,9 +107,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7325c97-dfaf-4197-b599-95db0dac9450" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/susan.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c" beforeDir="false" afterPath="$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -126,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="746" column="89" selection-start-line="746" selection-start-column="89" selection-end-line="746" selection-end-column="89" />
+            <state relative-caret-position="420">
+              <caret line="766" column="7" lean-forward="true" selection-start-line="766" selection-start-column="7" selection-end-line="766" selection-end-column="7" />
               <folding>
                 <element signature="e#2409#2429#0" expanded="true" />
               </folding>
@@ -142,6 +141,7 @@
       <find>file_handle</find>
       <find>strncmp</find>
       <find>fwrite</find>
+      <find>i</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,10 +156,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="150" />
-    <option name="y" value="-21" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-42" />
+    <option name="y" value="-18" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -492,7 +492,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="raspividyuv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="raspividyuv" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="raspividyuv">
+    <configuration name="raspividyuv" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-w 256 -h 192 -fps 25 -o udp://10.1.1.39:27000" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vmcs_host_apps" TARGET_NAME="raspividyuv" CONFIG_NAME="Debug-Remote" RUN_TARGET_PROJECT_NAME="vmcs_host_apps" RUN_TARGET_NAME="raspividyuv">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -799,43 +799,80 @@
       <option name="presentableId" value="Default" />
       <updated>1554296485526</updated>
       <workItem from="1554296490148" duration="7727000" />
+      <workItem from="1554362754885" duration="4022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7727000" />
+    <option name="totallyTimeSpent" value="11749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32917964" />
-      <window_info anchor="bottom" id="Messages" weight="0.32917964" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32917964" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" weight="0.3287037" />
-      <window_info anchor="bottom" id="CMake" weight="0.3287037" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.15057114" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="LuaJ" />
+      <window_info anchor="bottom" id="File Transfer" order="7" weight="0.3271028" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3281412" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32917964" />
+      <window_info anchor="bottom" id="CMake" order="13" weight="0.3281412" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="LuaJ" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.15092592" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="File Transfer" order="7" visible="true" weight="0.32777777" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3287037" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32917964" />
+      <window_info anchor="bottom" id="CMake" order="13" weight="0.3281412" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="LuaJ" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c</url>
+          <line>738</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.CLion2018.3/system/.remote/10.1.1.29_22/bbf1f497-fb7e-40ad-b8e0-5d909bd3cca9/usr/include/string.h">
@@ -868,8 +905,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/host_applications/linux/apps/raspicam/RaspiVidYUV.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="746" column="89" selection-start-line="746" selection-start-column="89" selection-end-line="746" selection-end-column="89" />
+        <state relative-caret-position="420">
+          <caret line="766" column="7" lean-forward="true" selection-start-line="766" selection-start-column="7" selection-end-line="766" selection-end-column="7" />
           <folding>
             <element signature="e#2409#2429#0" expanded="true" />
           </folding>

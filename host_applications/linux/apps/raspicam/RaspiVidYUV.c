@@ -738,16 +738,47 @@ static void camera_buffer_callback(MMAL_PORT_T *port, MMAL_BUFFER_HEADER_T *buff
 
          uint16_t image_width = 256;
          uint16_t image_height = 192;
-         uint16_t max_package_size = 1024;
+         uint16_t max_package_size = 1460;
+         uint32_t frame_index = 0;
+         uint32_t packet_offset = 0;
+         uint8_t header_size = 12;
 
          // Calculate how many packets we are going to send
-         uint16_t max_package_count = image_width * image_height * (uint16_t ) pstate->framerate / max_package_size;
+         uint16_t max_package_count = image_width * image_height / max_package_size;
 
          // Loop over the buffer, and fwrite a selection of the buffer
          // TODO: Copy a subset of the buffer, and prefix the frame number and the offset
-         for (int i = 0; i < max_package_count; ++i)
+         for (int32_t i = 0; i < max_package_count; ++i)
          {
-            fwrite(buffer->data + max_package_size * i, 1, max_package_size, pData->file_handle);
+            char packet[max_package_size + header_size];
+
+            // Set up our own packet header
+            memcpy(packet, &frame_index, sizeof(int32_t));
+            memcpy(packet, &packet_offset, sizeof(int32_t));
+            memcpy(packet, &max_package_size, sizeof(int32_t));
+            memcpy(packet, buffer + packet_offset * max_package_size, max_package_size);
+
+            fwrite(packet, 1, max_package_size, pData->file_handle);
+            fflush(pData->file_handle);
+
+            ++packet_offset;
+         }
+
+         ++frame_index;
+
+         if (max_package_count * max_package_size < buffer->length)
+         {
+            uint16_t remaining_package_size = (uint16_t) buffer->length - max_package_count * max_package_size;
+
+            char packet[remaining_package_size];
+
+            memcpy(packet, &frame_index, sizeof(int32_t));
+            memcpy(packet, &packet_offset, sizeof(int32_t));
+            memcpy(packet, &max_package_size, sizeof(int32_t));
+            memcpy(packet, &buffer->length + max_package_count * max_package_size, remaining_package_size);
+
+            fwrite(packet, 1, max_package_size, pData->file_handle);
+            fflush(pData->file_handle);
          }
 
          //bytes_written = fwrite(buffer->data, 1, bytes_to_write, pData->file_handle);

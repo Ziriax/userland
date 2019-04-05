@@ -646,6 +646,14 @@ static FILE *open_filename(RASPIVIDYUV_STATE *pState, char *filename) {
     return new_handle;
 }
 
+typedef struct
+{
+    uint64_t time_stamp;
+    uint32_t frame_index;
+    uint32_t data_offset;
+    uint32_t data_length;
+} packet_header_t;
+
 /**
  *  buffer header callback function for camera
  *
@@ -665,7 +673,7 @@ static void camera_buffer_callback(MMAL_PORT_T *port, MMAL_BUFFER_HEADER_T *buff
     RASPIVIDYUV_STATE *pstate = pData->pstate;
 
     if (pData) {
-        int bytes_written = 0;
+        //int bytes_written = 0;
         int bytes_to_write = buffer->length;
         int64_t current_time = get_microseconds64() / 1000000;
 
@@ -678,19 +686,30 @@ static void camera_buffer_callback(MMAL_PORT_T *port, MMAL_BUFFER_HEADER_T *buff
         if (bytes_to_write) {
             mmal_buffer_header_mem_lock(buffer);
 
-            const int image_width = 256;
-            const int image_height = 192;
-            const int payload_size = 1460;
-            const int header_size = 12;
+            struct timespec start;
+
+            clock_gettime(CLOCK_REALTIME, &start);
+
+            //const int image_width = 256;
+            //const int image_height = 192;
+            const int packet_size = 1472;
+            const int header_size = sizeof(packet_header_t);
+            const int payload_size = packet_size - header_size;
+
+            packet_header_t header;
 
             // Loop over the buffer, and send packets to socket
             for (int32_t offset = 0; offset < buffer->length; offset += payload_size) {
 
                 int32_t length = vcos_min(payload_size, buffer->length - offset);
+                const uint64_t time_ms = (start.tv_nsec / 1000000) + start.tv_sec * 1000;
 
-                fwrite(&frame_index, 1, sizeof(frame_index), fileHandle);
-                fwrite(&offset, 1, sizeof(offset), fileHandle);
-                fwrite(&length, 1, sizeof(length), fileHandle);
+                header.frame_index = frame_index;
+                header.data_length = length;
+                header.data_offset = offset;
+                header.time_stamp = time_ms;
+
+                fwrite(&header, 1, length, fileHandle);
                 fwrite(buffer->data + offset, 1, length, fileHandle);
                 fflush(fileHandle);
             }

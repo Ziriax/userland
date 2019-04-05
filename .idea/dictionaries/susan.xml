@@ -2,6 +2,7 @@
   <dictionary name="susan">
     <words>
       <w>fwrite</w>
+      <w>pstate</w>
       <w>socktype</w>
     </words>
   </dictionary>
